@@ -1,0 +1,14 @@
+D:\demo-training-02\C#1_12\Keywords\Keywords\bin\Debug\netcoreapp3.1\Keywords.exe
+D:\demo-training-02\C#1_12\Keywords\Keywords\bin\Debug\netcoreapp3.1\Keywords.deps.json
+D:\demo-training-02\C#1_12\Keywords\Keywords\bin\Debug\netcoreapp3.1\Keywords.runtimeconfig.json
+D:\demo-training-02\C#1_12\Keywords\Keywords\bin\Debug\netcoreapp3.1\Keywords.runtimeconfig.dev.json
+D:\demo-training-02\C#1_12\Keywords\Keywords\bin\Debug\netcoreapp3.1\Keywords.dll
+D:\demo-training-02\C#1_12\Keywords\Keywords\bin\Debug\netcoreapp3.1\Keywords.pdb
+D:\demo-training-02\C#1_12\Keywords\Keywords\obj\Debug\netcoreapp3.1\Keywords.csproj.AssemblyReference.cache
+D:\demo-training-02\C#1_12\Keywords\Keywords\obj\Debug\netcoreapp3.1\Keywords.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#1_12\Keywords\Keywords\obj\Debug\netcoreapp3.1\Keywords.AssemblyInfoInputs.cache
+D:\demo-training-02\C#1_12\Keywords\Keywords\obj\Debug\netcoreapp3.1\Keywords.AssemblyInfo.cs
+D:\demo-training-02\C#1_12\Keywords\Keywords\obj\Debug\netcoreapp3.1\Keywords.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#1_12\Keywords\Keywords\obj\Debug\netcoreapp3.1\Keywords.dll
+D:\demo-training-02\C#1_12\Keywords\Keywords\obj\Debug\netcoreapp3.1\Keywords.pdb
+D:\demo-training-02\C#1_12\Keywords\Keywords\obj\Debug\netcoreapp3.1\Keywords.genruntimeconfig.cache
