@@ -1,0 +1,14 @@
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.exe
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.deps.json
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.json
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.dev.json
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.dll
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.pdb
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.csproj.AssemblyReference.cache
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfoInputs.cache
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfo.cs
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.dll
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.pdb
+D:\demo-training-02\C#1_12\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.genruntimeconfig.cache

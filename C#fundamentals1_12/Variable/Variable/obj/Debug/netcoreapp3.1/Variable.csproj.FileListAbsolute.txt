@@ -1,0 +1,14 @@
+D:\demo-training-02\C#1_12\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.exe
+D:\demo-training-02\C#1_12\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.deps.json
+D:\demo-training-02\C#1_12\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.runtimeconfig.json
+D:\demo-training-02\C#1_12\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.runtimeconfig.dev.json
+D:\demo-training-02\C#1_12\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.dll
+D:\demo-training-02\C#1_12\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.pdb
+D:\demo-training-02\C#1_12\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.csproj.AssemblyReference.cache
+D:\demo-training-02\C#1_12\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#1_12\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.AssemblyInfoInputs.cache
+D:\demo-training-02\C#1_12\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.AssemblyInfo.cs
+D:\demo-training-02\C#1_12\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#1_12\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.dll
+D:\demo-training-02\C#1_12\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.pdb
+D:\demo-training-02\C#1_12\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ove0iYQRuOIb6mV/247KrF5P+zaNcEobpiCLI4KnA1SRED747GsVT6QD7juFEtoEe0zZ6/m9GNJZmwXR30lRcw==",
+  "success": true,
+  "projectFilePath": "D:\\demo-training-02\\C#fundamentals1_12\\DataTypes_Structure\\DataTypes_Structure\\DataTypes_Structure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

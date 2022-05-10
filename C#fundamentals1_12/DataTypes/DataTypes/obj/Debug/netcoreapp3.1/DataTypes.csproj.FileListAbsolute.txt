@@ -1,0 +1,13 @@
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.exe
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.deps.json
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.json
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.dev.json
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.dll
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.pdb
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfoInputs.cache
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfo.cs
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.dll
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.pdb
+D:\demo-training-02\C#1_12\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.genruntimeconfig.cache

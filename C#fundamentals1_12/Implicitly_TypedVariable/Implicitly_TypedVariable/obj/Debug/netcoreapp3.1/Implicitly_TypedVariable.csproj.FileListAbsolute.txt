@@ -1,0 +1,14 @@
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\bin\Debug\netcoreapp3.1\Implicitly_TypedVariable.exe
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\bin\Debug\netcoreapp3.1\Implicitly_TypedVariable.deps.json
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\bin\Debug\netcoreapp3.1\Implicitly_TypedVariable.runtimeconfig.json
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\bin\Debug\netcoreapp3.1\Implicitly_TypedVariable.runtimeconfig.dev.json
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\bin\Debug\netcoreapp3.1\Implicitly_TypedVariable.dll
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\bin\Debug\netcoreapp3.1\Implicitly_TypedVariable.pdb
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\obj\Debug\netcoreapp3.1\Implicitly_TypedVariable.csproj.AssemblyReference.cache
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\obj\Debug\netcoreapp3.1\Implicitly_TypedVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\obj\Debug\netcoreapp3.1\Implicitly_TypedVariable.AssemblyInfoInputs.cache
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\obj\Debug\netcoreapp3.1\Implicitly_TypedVariable.AssemblyInfo.cs
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\obj\Debug\netcoreapp3.1\Implicitly_TypedVariable.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\obj\Debug\netcoreapp3.1\Implicitly_TypedVariable.dll
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\obj\Debug\netcoreapp3.1\Implicitly_TypedVariable.pdb
+D:\demo-training-02\C#1_12\Implicitly_TypedVariable\Implicitly_TypedVariable\obj\Debug\netcoreapp3.1\Implicitly_TypedVariable.genruntimeconfig.cache
