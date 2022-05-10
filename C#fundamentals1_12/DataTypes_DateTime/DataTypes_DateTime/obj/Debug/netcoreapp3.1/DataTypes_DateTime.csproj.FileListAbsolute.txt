@@ -1,0 +1,14 @@
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\bin\Debug\netcoreapp3.1\DataTypes_DateTime.exe
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\bin\Debug\netcoreapp3.1\DataTypes_DateTime.deps.json
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\bin\Debug\netcoreapp3.1\DataTypes_DateTime.runtimeconfig.json
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\bin\Debug\netcoreapp3.1\DataTypes_DateTime.runtimeconfig.dev.json
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\bin\Debug\netcoreapp3.1\DataTypes_DateTime.dll
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\bin\Debug\netcoreapp3.1\DataTypes_DateTime.pdb
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\obj\Debug\netcoreapp3.1\DataTypes_DateTime.csproj.AssemblyReference.cache
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\obj\Debug\netcoreapp3.1\DataTypes_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\obj\Debug\netcoreapp3.1\DataTypes_DateTime.AssemblyInfoInputs.cache
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\obj\Debug\netcoreapp3.1\DataTypes_DateTime.AssemblyInfo.cs
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\obj\Debug\netcoreapp3.1\DataTypes_DateTime.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\obj\Debug\netcoreapp3.1\DataTypes_DateTime.dll
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\obj\Debug\netcoreapp3.1\DataTypes_DateTime.pdb
+D:\demo-training-02\C#fundamentals1_12\DataTypes_DateTime\DataTypes_DateTime\obj\Debug\netcoreapp3.1\DataTypes_DateTime.genruntimeconfig.cache

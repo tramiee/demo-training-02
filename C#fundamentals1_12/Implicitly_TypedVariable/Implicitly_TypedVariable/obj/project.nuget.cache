@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5YPPmiuGd6Uz0O6bfmeKpnMobAjlDWaxso1jdPIpQ87/obhgL1GSzBxmFjPJXidqfXfNbk1sF0ad7Pfnfn96jw==",
+  "success": true,
+  "projectFilePath": "D:\\demo-training-02\\C#1_12\\Implicitly_TypedVariable\\Implicitly_TypedVariable\\Implicitly_TypedVariable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
