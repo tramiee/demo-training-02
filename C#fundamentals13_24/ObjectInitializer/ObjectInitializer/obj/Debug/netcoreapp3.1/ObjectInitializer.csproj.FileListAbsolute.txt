@@ -1,0 +1,13 @@
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\bin\Debug\netcoreapp3.1\ObjectInitializer.exe
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\bin\Debug\netcoreapp3.1\ObjectInitializer.deps.json
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\bin\Debug\netcoreapp3.1\ObjectInitializer.runtimeconfig.json
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\bin\Debug\netcoreapp3.1\ObjectInitializer.runtimeconfig.dev.json
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\bin\Debug\netcoreapp3.1\ObjectInitializer.dll
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\bin\Debug\netcoreapp3.1\ObjectInitializer.pdb
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.AssemblyInfoInputs.cache
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.AssemblyInfo.cs
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.dll
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.pdb
+D:\demo-training-02\C#fundamentals13_24\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.genruntimeconfig.cache

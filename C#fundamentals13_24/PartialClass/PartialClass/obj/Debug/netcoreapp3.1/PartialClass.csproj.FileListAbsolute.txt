@@ -1,0 +1,14 @@
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\bin\Debug\netcoreapp3.1\PartialClass.exe
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\bin\Debug\netcoreapp3.1\PartialClass.deps.json
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\bin\Debug\netcoreapp3.1\PartialClass.runtimeconfig.json
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\bin\Debug\netcoreapp3.1\PartialClass.runtimeconfig.dev.json
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\bin\Debug\netcoreapp3.1\PartialClass.dll
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\bin\Debug\netcoreapp3.1\PartialClass.pdb
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\obj\Debug\netcoreapp3.1\PartialClass.csproj.AssemblyReference.cache
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\obj\Debug\netcoreapp3.1\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\obj\Debug\netcoreapp3.1\PartialClass.AssemblyInfoInputs.cache
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\obj\Debug\netcoreapp3.1\PartialClass.AssemblyInfo.cs
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\obj\Debug\netcoreapp3.1\PartialClass.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\obj\Debug\netcoreapp3.1\PartialClass.dll
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\obj\Debug\netcoreapp3.1\PartialClass.pdb
+D:\demo-training-02\C#fundamentals13_24\PartialClass\PartialClass\obj\Debug\netcoreapp3.1\PartialClass.genruntimeconfig.cache

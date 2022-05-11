@@ -1,0 +1,14 @@
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\bin\Debug\netcoreapp3.1\Value_ReferenceTypes.exe
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\bin\Debug\netcoreapp3.1\Value_ReferenceTypes.deps.json
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\bin\Debug\netcoreapp3.1\Value_ReferenceTypes.runtimeconfig.json
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\bin\Debug\netcoreapp3.1\Value_ReferenceTypes.runtimeconfig.dev.json
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\bin\Debug\netcoreapp3.1\Value_ReferenceTypes.dll
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\bin\Debug\netcoreapp3.1\Value_ReferenceTypes.pdb
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\obj\Debug\netcoreapp3.1\Value_ReferenceTypes.csproj.AssemblyReference.cache
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\obj\Debug\netcoreapp3.1\Value_ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\obj\Debug\netcoreapp3.1\Value_ReferenceTypes.AssemblyInfoInputs.cache
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\obj\Debug\netcoreapp3.1\Value_ReferenceTypes.AssemblyInfo.cs
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\obj\Debug\netcoreapp3.1\Value_ReferenceTypes.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\obj\Debug\netcoreapp3.1\Value_ReferenceTypes.dll
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\obj\Debug\netcoreapp3.1\Value_ReferenceTypes.pdb
+D:\demo-training-02\C#fundamentals13_24\Value_ReferenceTypes\Value_ReferenceTypes\obj\Debug\netcoreapp3.1\Value_ReferenceTypes.genruntimeconfig.cache

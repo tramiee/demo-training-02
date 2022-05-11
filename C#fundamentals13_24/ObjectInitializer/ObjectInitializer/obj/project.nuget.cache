@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q1GhJnn6UQ2WW9MFl6tJVL8NZ6V5aW8sJ62qLpBzSEpcsvDJRti67YhQ518XA7nWN3qMC+qboNJQ827fvQ7cbA==",
+  "success": true,
+  "projectFilePath": "D:\\demo-training-02\\C#fundamentals13_24\\ObjectInitializer\\ObjectInitializer\\ObjectInitializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
