@@ -1,0 +1,14 @@
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\bin\Debug\netcoreapp3.1\DataTypes_StringBuilder.exe
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\bin\Debug\netcoreapp3.1\DataTypes_StringBuilder.deps.json
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\bin\Debug\netcoreapp3.1\DataTypes_StringBuilder.runtimeconfig.json
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\bin\Debug\netcoreapp3.1\DataTypes_StringBuilder.runtimeconfig.dev.json
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\bin\Debug\netcoreapp3.1\DataTypes_StringBuilder.dll
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\bin\Debug\netcoreapp3.1\DataTypes_StringBuilder.pdb
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\obj\Debug\netcoreapp3.1\DataTypes_StringBuilder.csproj.AssemblyReference.cache
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\obj\Debug\netcoreapp3.1\DataTypes_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\obj\Debug\netcoreapp3.1\DataTypes_StringBuilder.AssemblyInfoInputs.cache
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\obj\Debug\netcoreapp3.1\DataTypes_StringBuilder.AssemblyInfo.cs
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\obj\Debug\netcoreapp3.1\DataTypes_StringBuilder.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\obj\Debug\netcoreapp3.1\DataTypes_StringBuilder.dll
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\obj\Debug\netcoreapp3.1\DataTypes_StringBuilder.pdb
+D:\demo-training-02\C#fundamentals13_24\DataTypes_StringBuilder\DataTypes_StringBuilder\obj\Debug\netcoreapp3.1\DataTypes_StringBuilder.genruntimeconfig.cache

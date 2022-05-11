@@ -1,0 +1,13 @@
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\bin\Debug\netcoreapp3.1\DataTypes_DynamicTypes.exe
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\bin\Debug\netcoreapp3.1\DataTypes_DynamicTypes.deps.json
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\bin\Debug\netcoreapp3.1\DataTypes_DynamicTypes.runtimeconfig.json
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\bin\Debug\netcoreapp3.1\DataTypes_DynamicTypes.runtimeconfig.dev.json
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\bin\Debug\netcoreapp3.1\DataTypes_DynamicTypes.dll
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\bin\Debug\netcoreapp3.1\DataTypes_DynamicTypes.pdb
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\obj\Debug\netcoreapp3.1\DataTypes_DynamicTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\obj\Debug\netcoreapp3.1\DataTypes_DynamicTypes.AssemblyInfoInputs.cache
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\obj\Debug\netcoreapp3.1\DataTypes_DynamicTypes.AssemblyInfo.cs
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\obj\Debug\netcoreapp3.1\DataTypes_DynamicTypes.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\obj\Debug\netcoreapp3.1\DataTypes_DynamicTypes.dll
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\obj\Debug\netcoreapp3.1\DataTypes_DynamicTypes.pdb
+D:\demo-training-02\C#fundamentals13_24\DataTypes_DynamicTypes\DataTypes_DynamicTypes\obj\Debug\netcoreapp3.1\DataTypes_DynamicTypes.genruntimeconfig.cache
