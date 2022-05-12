@@ -1,0 +1,14 @@
+D:\demo-training-02\C#collections\Arraylist\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.exe
+D:\demo-training-02\C#collections\Arraylist\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.deps.json
+D:\demo-training-02\C#collections\Arraylist\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.runtimeconfig.json
+D:\demo-training-02\C#collections\Arraylist\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.runtimeconfig.dev.json
+D:\demo-training-02\C#collections\Arraylist\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.dll
+D:\demo-training-02\C#collections\Arraylist\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.pdb
+D:\demo-training-02\C#collections\Arraylist\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.csproj.AssemblyReference.cache
+D:\demo-training-02\C#collections\Arraylist\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#collections\Arraylist\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.AssemblyInfoInputs.cache
+D:\demo-training-02\C#collections\Arraylist\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.AssemblyInfo.cs
+D:\demo-training-02\C#collections\Arraylist\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#collections\Arraylist\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.dll
+D:\demo-training-02\C#collections\Arraylist\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.pdb
+D:\demo-training-02\C#collections\Arraylist\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.genruntimeconfig.cache

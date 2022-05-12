@@ -1,0 +1,13 @@
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.exe
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.deps.json
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.runtimeconfig.json
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.runtimeconfig.dev.json
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.dll
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.pdb
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.AssemblyInfoInputs.cache
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.AssemblyInfo.cs
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.dll
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.pdb
+D:\demo-training-02\C#collections\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.genruntimeconfig.cache

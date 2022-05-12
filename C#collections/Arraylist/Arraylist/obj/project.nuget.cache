@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKjUZJBnE64xyze50oNOIgoeCI+KlKPTkCV9dl5ExU7osLyFqyweBZLrqJuhYttS1mrTt8ZPgSVuOjAAhnv+Zg==",
+  "success": true,
+  "projectFilePath": "D:\\demo-training-02\\C#collections\\Arraylist\\Arraylist\\Arraylist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

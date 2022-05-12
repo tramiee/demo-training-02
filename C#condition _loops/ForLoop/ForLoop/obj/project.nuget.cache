@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jo12rz6D5LdSn/mYqQXyq5GPsA1sqPlTzE+InfNXuOK7srKjwHaxcLuL/MpCNgQ/zDaHWMwZNwgmVHkZv5Nw1g==",
+  "success": true,
+  "projectFilePath": "D:\\demo-training-02\\C#fundamentals13_24\\ForLoop\\ForLoop\\ForLoop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

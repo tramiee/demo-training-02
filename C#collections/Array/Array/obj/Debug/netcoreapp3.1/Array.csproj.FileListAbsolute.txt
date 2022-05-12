@@ -1,0 +1,14 @@
+D:\demo-training-02\C#collections\Array\Array\bin\Debug\netcoreapp3.1\Array.exe
+D:\demo-training-02\C#collections\Array\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+D:\demo-training-02\C#collections\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+D:\demo-training-02\C#collections\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+D:\demo-training-02\C#collections\Array\Array\bin\Debug\netcoreapp3.1\Array.dll
+D:\demo-training-02\C#collections\Array\Array\bin\Debug\netcoreapp3.1\Array.pdb
+D:\demo-training-02\C#collections\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.AssemblyReference.cache
+D:\demo-training-02\C#collections\Array\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#collections\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+D:\demo-training-02\C#collections\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+D:\demo-training-02\C#collections\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#collections\Array\Array\obj\Debug\netcoreapp3.1\Array.dll
+D:\demo-training-02\C#collections\Array\Array\obj\Debug\netcoreapp3.1\Array.pdb
+D:\demo-training-02\C#collections\Array\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
