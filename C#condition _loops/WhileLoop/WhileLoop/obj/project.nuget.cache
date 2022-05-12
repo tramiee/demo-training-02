@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFGajdP9iV/YeDbamb00MjGRNI9GurQ6nK7fbF30d3oweukJTqtLd983FgYf7rZ7bK+SXNbXeK15yrakSkYJxA==",
+  "success": true,
+  "projectFilePath": "D:\\demo-training-02\\C#condition _loops\\WhileLoop\\WhileLoop\\WhileLoop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

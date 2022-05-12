@@ -1,0 +1,13 @@
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\bin\Debug\netcoreapp3.1\Do_whileLoop.exe
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\bin\Debug\netcoreapp3.1\Do_whileLoop.deps.json
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\bin\Debug\netcoreapp3.1\Do_whileLoop.runtimeconfig.json
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\bin\Debug\netcoreapp3.1\Do_whileLoop.runtimeconfig.dev.json
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\bin\Debug\netcoreapp3.1\Do_whileLoop.dll
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\bin\Debug\netcoreapp3.1\Do_whileLoop.pdb
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\obj\Debug\netcoreapp3.1\Do_whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\obj\Debug\netcoreapp3.1\Do_whileLoop.AssemblyInfoInputs.cache
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\obj\Debug\netcoreapp3.1\Do_whileLoop.AssemblyInfo.cs
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\obj\Debug\netcoreapp3.1\Do_whileLoop.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\obj\Debug\netcoreapp3.1\Do_whileLoop.dll
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\obj\Debug\netcoreapp3.1\Do_whileLoop.pdb
+D:\demo-training-02\C#condition _loops\Do_whileLoop\Do_whileLoop\obj\Debug\netcoreapp3.1\Do_whileLoop.genruntimeconfig.cache
