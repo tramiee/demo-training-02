@@ -1,0 +1,14 @@
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\bin\Debug\netcoreapp3.1\CreateStack.exe
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\bin\Debug\netcoreapp3.1\CreateStack.deps.json
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\bin\Debug\netcoreapp3.1\CreateStack.runtimeconfig.json
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\bin\Debug\netcoreapp3.1\CreateStack.runtimeconfig.dev.json
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\bin\Debug\netcoreapp3.1\CreateStack.dll
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\bin\Debug\netcoreapp3.1\CreateStack.pdb
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\obj\Debug\netcoreapp3.1\CreateStack.csproj.AssemblyReference.cache
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\obj\Debug\netcoreapp3.1\CreateStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\obj\Debug\netcoreapp3.1\CreateStack.AssemblyInfoInputs.cache
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\obj\Debug\netcoreapp3.1\CreateStack.AssemblyInfo.cs
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\obj\Debug\netcoreapp3.1\CreateStack.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\obj\Debug\netcoreapp3.1\CreateStack.dll
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\obj\Debug\netcoreapp3.1\CreateStack.pdb
+D:\demo-training-02\C#collections7_12\CreateStack\CreateStack\obj\Debug\netcoreapp3.1\CreateStack.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTable.exe
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTable.deps.json
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.json
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.dev.json
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTable.dll
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTable.pdb
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.AssemblyReference.cache
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfoInputs.cache
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfo.cs
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.dll
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.pdb
+D:\demo-training-02\C#collections7_12\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.genruntimeconfig.cache

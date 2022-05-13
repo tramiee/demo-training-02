@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Valuetuple/1.0.0": {
+        "runtime": {
+          "Valuetuple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Valuetuple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
