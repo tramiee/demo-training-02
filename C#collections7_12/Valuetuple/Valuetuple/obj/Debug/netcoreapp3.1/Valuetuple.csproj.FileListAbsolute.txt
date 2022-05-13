@@ -1,0 +1,13 @@
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\obj\Debug\netcoreapp3.1\Valuetuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\obj\Debug\netcoreapp3.1\Valuetuple.AssemblyInfoInputs.cache
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\obj\Debug\netcoreapp3.1\Valuetuple.AssemblyInfo.cs
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\obj\Debug\netcoreapp3.1\Valuetuple.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\bin\Debug\netcoreapp3.1\Valuetuple.exe
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\bin\Debug\netcoreapp3.1\Valuetuple.deps.json
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\bin\Debug\netcoreapp3.1\Valuetuple.runtimeconfig.json
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\bin\Debug\netcoreapp3.1\Valuetuple.runtimeconfig.dev.json
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\bin\Debug\netcoreapp3.1\Valuetuple.dll
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\bin\Debug\netcoreapp3.1\Valuetuple.pdb
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\obj\Debug\netcoreapp3.1\Valuetuple.dll
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\obj\Debug\netcoreapp3.1\Valuetuple.pdb
+D:\demo-training-02\C#collections7_12\Valuetuple\Valuetuple\obj\Debug\netcoreapp3.1\Valuetuple.genruntimeconfig.cache

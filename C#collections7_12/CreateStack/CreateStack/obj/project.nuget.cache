@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+YAT2fdJZ02/1fGeSpaoqKwYroKW7LBiLo0mNuZUTXTHUL6LoN9BZnKlFb2Q4F7j95OQOClPyP+EUT8oYKzyw==",
+  "success": true,
+  "projectFilePath": "D:\\demo-training-02\\C#collections7_12\\CreateStack\\CreateStack\\CreateStack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

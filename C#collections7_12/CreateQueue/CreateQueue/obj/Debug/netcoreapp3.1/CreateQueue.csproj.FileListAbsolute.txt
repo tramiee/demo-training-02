@@ -1,0 +1,13 @@
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\bin\Debug\netcoreapp3.1\CreateQueue.exe
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\bin\Debug\netcoreapp3.1\CreateQueue.deps.json
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\bin\Debug\netcoreapp3.1\CreateQueue.runtimeconfig.json
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\bin\Debug\netcoreapp3.1\CreateQueue.runtimeconfig.dev.json
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\bin\Debug\netcoreapp3.1\CreateQueue.dll
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\bin\Debug\netcoreapp3.1\CreateQueue.pdb
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\obj\Debug\netcoreapp3.1\CreateQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\obj\Debug\netcoreapp3.1\CreateQueue.AssemblyInfoInputs.cache
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\obj\Debug\netcoreapp3.1\CreateQueue.AssemblyInfo.cs
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\obj\Debug\netcoreapp3.1\CreateQueue.csproj.CoreCompileInputs.cache
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\obj\Debug\netcoreapp3.1\CreateQueue.dll
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\obj\Debug\netcoreapp3.1\CreateQueue.pdb
+D:\demo-training-02\C#collections7_12\CreateQueue\CreateQueue\obj\Debug\netcoreapp3.1\CreateQueue.genruntimeconfig.cache
